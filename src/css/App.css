@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.App-description {
+  text-align: justify;
+  margin: 0 5%;
+}
+
+.Dashboard-title {
+  margin: 2% 5%;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

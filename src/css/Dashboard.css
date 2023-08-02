@@ -1,0 +1,24 @@
+
+.Offcanvas-button {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.Chat-window {
+    /* height = rest of viewport */
+    height: calc(100vh - 50px);
+    margin: 0 auto 1%;
+    border: 1px solid #ccc;
+    border-radius: 5px 5px 0 0;
+    background-color: #fff;
+    box-shadow: 0 0 3px #ccc;
+}
+
+.Chat-input {
+    text-anchor: end;
+}
+
+.Chat-input-button {
+    margin: 0 0 0 1%;
+    max-width: 10em;
+}
