@@ -1,4 +1,5 @@
-# gpteach
+# GPTeach
+## An AI platform for students.
 
 # Getting Started with Create React App
 
